@@ -2,4 +2,6 @@ jupyter
 matplotlib
 nltk
 pandas
+pylatexenc
+qiskit-machine-learning
 scikit-learn
